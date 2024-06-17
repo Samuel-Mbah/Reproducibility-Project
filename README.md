@@ -13,7 +13,7 @@ The notebook is divided into sections:
 2. Implementing for example the Puzzle15 class and related functions
 3. Implementing the Heuristics class and related functions
 4. Implementing the IDAStar class and related functions
-5. Implementing the BayesianNN class and related functions
+5. Implementing the Neural network class and related functions that introduces uncertainty model.
 6. Training the Bayesian neural network and evaluating the solver
 7. Solving the puzzle using the trained network
 
