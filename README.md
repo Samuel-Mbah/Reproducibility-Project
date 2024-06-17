@@ -38,7 +38,7 @@ Two architectures are available:
 ### Instructions
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/15-puzzle-heuristics.git
+   [git clone https://github.com/Samuel-Mbah/Reproducibility-Project.git]
     cd 15-puzzle-heuristics
     ```
 
